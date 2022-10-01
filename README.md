@@ -31,5 +31,5 @@ In this project, we developed an application using concepts of Object-Oriented P
 # Contributors
 1) Qalb e Ali
 2) Syed Ali Raza
-3) Muhammad Wahaj ud Din
+3) Muhammad Tayyab
 4) Danyal Shah
