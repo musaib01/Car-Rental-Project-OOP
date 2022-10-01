@@ -1,5 +1,5 @@
 # Car-Rental-Project-OOP
-After learning the basics of Object Oriented Programming, we made the decision to apply OOP principles to our prior project in an effort to improve its efficiency. This C++ software is an updated version of our earlier project from the first semester. This was the semester project that we turned in for the second semester of OOP.
+Freshly learnt the concepts of Object Oriented Programming, we decided to bring our previous project to another level by applying concepts of OOP and try to make it more efficient. This is a program made with C++ and is an improved version of our previous project in the first semester. We submitted this as our Semester project for the course of OOP in the second semester.
 
 # Introduction
 In this project, we developed an application using concepts of Object-Oriented Programming. We provide the user with a variety of cars, which are divided into three classes: Economy, Economy Plus and Business. The user chooses for how long they would require the car and according to the specific rate assigned to the car. The user has the option to choose their mode of payment which include cash or credit. If the user chooses credit, they can enter their credit card information. The program checks the information and gives confirmation for the transaction.
