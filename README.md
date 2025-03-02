@@ -1,4 +1,4 @@
-# Car-Rental-Project-OOP
+# Car-Rental-Service-V2
 Freshly learnt the concepts of Object Oriented Programming, we decided to bring our previous project to another level by applying concepts of OOP and try to make it more efficient. This is a program made with C++ and is an improved version of our previous project in the first semester. We submitted this as our Semester project for the course of OOP in the second semester.
 
 # Introduction
